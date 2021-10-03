@@ -1,6 +1,6 @@
 👋 Hi, I’m @antoinebollengier
 
-I am interested in PHP, Javascript (Nodejs backend, and javascript frontend), HTML and Python.
+I'm interested in PHP, Javascript (Nodejs backend, and javascript frontend), HTML and Python.
 
 I'm working on the repository https://github.com/Shubhamrawat5/apple-playlist-downloader. 🎵🎵
 
